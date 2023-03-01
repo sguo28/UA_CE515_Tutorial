@@ -8,6 +8,6 @@
 - [x] GPS point sequence --> speed --> acceleration --> power
 
 #### Lab 2: Processing Road Network Shapefile Using Geopandas
-- [] Read shapefile
-- [] Spatial processing
-- [] Obtain key geometry information
+- [ ] Read shapefile
+- [ ] Spatial processing
+- [ ] Obtain key geometry information

@@ -1,9 +1,0 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,stop_timezone,wheelchair_boarding,platform_code
-7686,3130,Bus Hub,,33.212909,-87.541564,,0,,0,
-7635,3008,Capstone Retirement Village (Northbound),,33.2103848,-87.5295192,,0,,0,
-7637,3009,Child Development Center,,33.20885,-87.52961667,,0,,0,
-24483,24483,Gayle-Gorgas Library,,33.212031533,-87.546073196,,0,,0,
-7633,3051,North Commuter,,33.2135984,-87.5337463,,0,,0,
-5102,3029,Rose Admin. Building,,33.20965,-87.54696667,,0,,0,
-7713,3043,Soccer Lot (Eastbound),,33.2083166,-87.5341666,,0,,0,
-7715,3052,Upper Rec (Northbound),,33.2124674,-87.5302702,,0,,0,
